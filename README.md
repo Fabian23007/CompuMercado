@@ -9,7 +9,7 @@
 >
 > Vendedor: Yadiel Lopez
 >
-> Marketing/Técnico: Javier
+> Marketing/Técnico: Javier Perez
 
 ## Servicios 
  * Asesoria
